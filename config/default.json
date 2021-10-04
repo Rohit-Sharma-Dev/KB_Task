@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Rohit:1234@cluster0.lipc1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtsecret":"task"
+}
